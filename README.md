@@ -1,1 +1,1 @@
-Prediksi Obesitas Menggunakan Model Decision Tree
+Prediksi besitas menggunakan model decision tree
